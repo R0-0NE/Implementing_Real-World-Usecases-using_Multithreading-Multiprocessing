@@ -1,4 +1,4 @@
-## 1 Real Worl example: Multithreading for I/O bound task
+## 1 Real World example: Multithreading for I/O bound task
 
 ## Scenario: Webscraping
 
