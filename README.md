@@ -8,7 +8,7 @@ Multithreading can significantly improve performance by allowing multiple pages 
 
 
 
-## 2 Real Worl example: Multiprocessing for CPU bound tasks
+## 2 Real World example: Multiprocessing for CPU bound tasks
 
 ## Scenario: Factorial Calculation
 
